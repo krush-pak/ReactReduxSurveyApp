@@ -1,0 +1,6 @@
+# hide env variables
+.env
+# ignore node modules
+node_modules
+# ignore mac shit
+.DS_Store 
