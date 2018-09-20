@@ -3,4 +3,6 @@
 # ignore node modules
 node_modules
 # ignore mac shit
-.DS_Store 
+.DS_Store
+# Secure Keys
+keys.js
